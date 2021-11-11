@@ -25,10 +25,7 @@ SECRET_KEY = 'django-insecure-dpa_vv8ey&9igx#!f*#)f0b-sz19$@831e(5%#=*#6nzkil!qi
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '127.0.0.1'
-    'cardgamearunkumar.herokuapp.com'
-]
+ALLOWED_HOSTS = []
 
 
 # Application definition
